@@ -1,4 +1,5 @@
 /* main style sheet */
+/* start general classes */
 * {
     margin: 0;
     padding: 0;
@@ -46,6 +47,8 @@ a, a:hover {
     width: 940px;
     margin: 0 auto;
 }
+/* end general classes */
+
 #header {
     position: absolute;
     top: 20px;
