@@ -3,3 +3,6 @@ logs/
 
 #ignore files *.txt in folder
 docs/*.txt
+
+#ignore folder
+mylibgit/
